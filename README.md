@@ -1,2 +1,2 @@
 # RegisZip
-Tools needed for Regis. Separated so it's not automatically download.
+Tools needed for Regis. Separated so they don't automatically download.
